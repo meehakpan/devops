@@ -7,6 +7,7 @@ from mongoengine.errors import FieldDoesNotExist, NotUniqueError, DoesNotExist, 
 from resources.errors import SchemaValidationError, MovieAlreadyExistsError, InternalServerError, \
 UpdatingMovieError, DeletingMovieError, MovieNotExistsError
 
+Note the difference here
 
 class MoviesApi(Resource):
     def get(self):
