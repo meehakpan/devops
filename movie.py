@@ -73,3 +73,4 @@ class MovieApi(Resource):
             raise MovieNotExistsError
         except Exception:
             raise InternalServerError
+			try:
