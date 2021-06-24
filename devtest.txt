@@ -4,5 +4,9 @@ DevOps covers lots of tools Chef, Puppet, Jenkins, Jira etc.
 
 "This a tocheck if the merging worked"
 
+"We have experimented with git merge"
+
+"We have equally done examples of git rebase"
+
 An Effective Cloud Native Programming Implementation
 Goal:  to effectively build, run and maintain scalable, fault-tolerant applications implemented in the Cloud Native model 
