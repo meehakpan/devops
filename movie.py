@@ -73,5 +73,5 @@ class MovieApi(Resource):
             raise MovieNotExistsError
         except Exception:
             raise InternalServerError
-			try: "I am creating text for rebase conflict"
-			try: "Creating more conflict"
+		
+		
