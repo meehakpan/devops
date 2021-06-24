@@ -3,6 +3,7 @@ Evaluation of software delivery methodology of  DevOps
 DevOps covers lots of tools Chef, Puppet, Jenkins, Jira etc.
 
 "This a tocheck if the merging worked"
+"This text is added after creating the .bash profile"
 
 "We have experimented with git merge"
 
