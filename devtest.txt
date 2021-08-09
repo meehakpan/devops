@@ -7,6 +7,8 @@ DevOps covers lots of tools Chef, Puppet, Jenkins, Jira etc.
 
 "We have experimented with git merge"
 
+#Making changes to important files
+
 "We have equally done examples of git rebase"
 
 An Effective Cloud Native Programming Implementation
